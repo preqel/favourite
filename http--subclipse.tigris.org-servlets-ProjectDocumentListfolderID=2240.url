@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://subclipse.tigris.org/servlets/ProjectDocumentList?folderID=2240
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://subclipse.tigris.org/servlets/ProjectDocumentList?folderID=2240
+IDList=
+IconFile=http://subclipse.tigris.org/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/codeeer/article/details/30237597
+[DOC#3876]
+BASEURL=http://ad.csdn.net/Scripts/1616.htm
+ORIGURL=http://ad.csdn.net/log.ashx?t=view&adtype=js1616&adurl=http%3A%2F%2Fad.csdn.net%2FScripts%2F1616.htm&r_m=575
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.csdn.net/codeeer/article/details/30237597
+IDList=
+IconFile=http://c.csdnimg.cn/public/favicon.ico
+IconIndex=1

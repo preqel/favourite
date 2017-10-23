@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://v.youku.com/v_show/id_XNTMzMjYzMzM2.html?from=s1.8-1-1.2&qq-pf-to=pcqq.c2c
+[DOC_youku_ad_iframe_44186]
+BASEURL=http://static.atm.youku.com/idea/201502/0211/60281/taobaox300x250x20110831.html
+ORIGURL=http://static.atm.youku.com/idea/201502/0211/60281/taobaox300x250x20110831.html#176,00,
+[DOC_youku_ad_iframe_44186_tanxssp-outer-iframemm_10982364_973726_8930541]
+BASEURL=http://static.atm.youku.com/idea/201502/0211/60281/taobaox300x250x20110831.html
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://v.youku.com/v_show/id_XNTMzMjYzMzM2.html?from=s1.8-1-1.2&qq-pf-to=pcqq.c2c
+IDList=
+IconFile=http://v.youku.com/favicon.ico
+IconIndex=1

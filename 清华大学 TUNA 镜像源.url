@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://mirrors.tuna.tsinghua.edu.cn/help/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP
+IDList=
+IconFile=https://mirrors.tuna.tsinghua.edu.cn/static/img/favicon.png
+IconIndex=1

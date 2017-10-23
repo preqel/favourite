@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://finance.qq.com/original/MissMoney/mm0189.html?pgv_ref=aio2015&ptlang=2052
+[DOC_commentIframe]
+BASEURL=http://www.qq.com/coral/coralBeta3/coralMainDom3.0.htm
+ORIGURL=http://www.qq.com/coral/coralBeta3/coralMainDom3.0.htm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://finance.qq.com/original/MissMoney/mm0189.html?pgv_ref=aio2015&ptlang=2052
+IDList=
+IconFile=http://mat1.gtimg.com/www/icon/favicon2.ico
+IconIndex=1

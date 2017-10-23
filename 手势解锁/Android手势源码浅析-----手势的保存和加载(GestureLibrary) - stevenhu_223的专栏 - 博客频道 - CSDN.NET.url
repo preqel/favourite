@@ -1,0 +1,24 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/stevenhu_223/article/details/9736191
+[DOC_BAIDU_DUP_fp_iframe]
+BASEURL=http://pos.baidu.com/wh/o.htm?ltr=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DfuQ0f_zC6-punV8XT-ek_zSjPz7MFoRD3VILgoHg4n8g_HOz_cZHEZtrzOl8XNfJ0yir5cmFiTEu-mNzDLi2j2Avq2UBvBzGfndTQOKh7uC%26wd%3D%26eqid%3Ddaa92de0000624dd0000000456493de5&cf=u
+ORIGURL=http://pos.baidu.com/wh/o.htm?ltr=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DfuQ0f_zC6-punV8XT-ek_zSjPz7MFoRD3VILgoHg4n8g_HOz_cZHEZtrzOl8XNfJ0yir5cmFiTEu-mNzDLi2j2Avq2UBvBzGfndTQOKh7uC%26wd%3D%26eqid%3Ddaa92de0000624dd0000000456493de5&cf=u
+[DOC_google_ads_iframe_/8456/IDG.CN_B2B_csdn.net_0]
+BASEURL=http://blog.csdn.net/stevenhu_223/article/details/9736191
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/8456/IDG.CN_B2B_csdn.net_0_aswift_0]
+BASEURL=http://blog.csdn.net/stevenhu_223/article/details/9736191
+ORIGURL=
+[DOC_google_ads_iframe_/8456/IDG.CN_B2B_csdn.net_0_aswift_0_google_ads_frame1_google_ad_98448007000]
+BASEURL=http://pagead2.googlesyndication.com/pagead/gadgets/teracent_product_template_V1/MinimalCarousel_1a-2_No_Border_728x90.html
+ORIGURL=http://pagead2.googlesyndication.com/pagead/gadgets/teracent_product_template_V1/MinimalCarousel_1a-2_No_Border_728x90.html#t=6952357325244097385&p=http%3A%2F%2Fgoogleads.g.doubleclick.net
+[DOC_google_ads_iframe_/8456/IDG.CN_B2B_csdn.net_0__hidden__]
+BASEURL=http://blog.csdn.net/stevenhu_223/article/details/9736191
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.csdn.net/stevenhu_223/article/details/9736191
+IDList=
+IconFile=http://c.csdnimg.cn/public/favicon.ico
+IconIndex=1

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/Rhino
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/Rhino
+IDList=
+IconFile=https://developer.cdn.mozilla.net/static/img/favicon32.e02854fdcf73.png
+IconIndex=1

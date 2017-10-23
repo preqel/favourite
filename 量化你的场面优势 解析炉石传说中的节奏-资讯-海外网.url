@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://news.haiwainet.cn/n/2016/0621/c3541840-30022076.html
+[DOC#814]
+BASEURL=http://news.haiwainet.cn/n/2016/0621/c3541840-30022076.html
+ORIGURL=
+[DOC_DialogFrame_1466478973577]
+BASEURL=http://news.haiwainet.cn/n/2016/0621/c3541840-30022076.html
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://news.haiwainet.cn/n/2016/0621/c3541840-30022076.html
+IDList=
+IconFile=http://news.haiwainet.cn/favicon.ico
+IconIndex=1

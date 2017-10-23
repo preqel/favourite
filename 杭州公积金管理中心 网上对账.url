@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.hzgjj.gov.cn:8080/WebAccounts/userLogin.do;jsessionid=5B0E163E1DF8743B9896B6144F839891
+[DOC_pagebody#5#8]
+BASEURL=http://www.hzgjj.gov.cn:8080/WebAccounts/perComInfo.do?flag=1
+ORIGURL=right.jsp
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.hzgjj.gov.cn:8080/WebAccounts/userLogin.do;jsessionid=5B0E163E1DF8743B9896B6144F839891
+IDList=

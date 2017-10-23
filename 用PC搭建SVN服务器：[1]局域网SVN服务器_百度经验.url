@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://jingyan.baidu.com/article/af9f5a2d035a5043140a45f2.html
+[DOC#860#8#6]
+BASEURL=http://vas.fun.tv/market/ext/Wno.html
+ORIGURL=http://vas.fun.tv/market/ext/Wno.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://jingyan.baidu.com/article/af9f5a2d035a5043140a45f2.html
+IDList=
+IconFile=http://jingyan.baidu.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.jianshu.com/p/de49e0ca30ca
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.jianshu.com/p/de49e0ca30ca
+IDList=
+IconFile=http://baijii-common.b0.upaiyun.com/icons/favicon.ico
+IconIndex=1

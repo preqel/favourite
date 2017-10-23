@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://finance.qq.com/a/20160303/012353.htm?pgv_ref=aio2015&ptlang=2052
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://finance.qq.com/a/20160303/012353.htm?pgv_ref=aio2015&ptlang=2052
+IDList=
+IconFile=http://mat1.gtimg.com/www/icon/favicon2.ico
+IconIndex=1

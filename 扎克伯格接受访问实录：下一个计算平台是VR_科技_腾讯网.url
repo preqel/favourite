@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://tech.qq.com/a/20160229/010556.htm
+[DOC#580#6]
+BASEURL=http://x.jd.com/exsites?spread_type=2&ad_ids=313:5&location_info=0&adflag=1
+ORIGURL=http://x.jd.com/exsites?spread_type=2&ad_ids=313:5&location_info=0&adflag=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://tech.qq.com/a/20160229/010556.htm
+IDList=
+IconFile=http://tech.qq.com/favicon.ico
+IconIndex=1

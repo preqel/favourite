@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://jingyan.baidu.com/article/5552ef47de4d96518ffbc9f7.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://jingyan.baidu.com/article/5552ef47de4d96518ffbc9f7.html
+IDList=
+IconFile=http://jingyan.baidu.com/favicon.ico?v=2
+IconIndex=1

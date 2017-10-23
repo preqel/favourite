@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://segmentfault.com/a/1190000003711924
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop17=31,https://sf-static.b0.upaiyun.com/v-579b24f3/global/img/touch-icon.png
+Prop16=19,2
+Prop18=31,#009a61
+[InternetShortcut]
+URL=https://segmentfault.com/a/1190000003711924
+IDList=
+IconFile=https://static.segmentfault.com/v-59b8e77b/global/img/favicon.ico
+IconIndex=1

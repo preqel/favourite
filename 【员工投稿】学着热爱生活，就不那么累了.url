@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://mp.weixin.qq.com/s?__biz=MzAxMTQ3MzUzMw==&mid=403111093&idx=5&sn=79cc7549e85f0c44276829c4211303b1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://mp.weixin.qq.com/s?__biz=MzAxMTQ3MzUzMw==&mid=403111093&idx=5&sn=79cc7549e85f0c44276829c4211303b1#rd
+IDList=
+IconFile=http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/favicon22c41b.ico
+IconIndex=1

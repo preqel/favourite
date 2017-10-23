@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.apkbus.com/android-115353-1-1.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.apkbus.com/android-115353-1-1.html
+IDList=
+IconFile=http://www.apkbus.com/favicon.ico
+IconIndex=1

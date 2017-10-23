@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://blog.sina.com.cn/s/blog_6864b86d0100k0jy.html
+[DOC#308_tanxssp-outer-iframemm_15890324_2192376_11153352]
+BASEURL=http://d3.sina.com.cn/litong/zhitou/union/tanx.html?pid=mm_15890324_2192376_11153352&type=html
+ORIGURL=javascript:void((function(){try{var d=document;d.open();d.domain='sina.com.cn';d.write('');d.close();}catch(e){}})())
+[DOC_sinaads-ck-iframe]
+BASEURL=http://d3.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html
+ORIGURL=//d3.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.sina.com.cn/s/blog_6864b86d0100k0jy.html
+IDList=
+IconFile=http://blog.sina.com.cn/favicon.ico
+IconIndex=1

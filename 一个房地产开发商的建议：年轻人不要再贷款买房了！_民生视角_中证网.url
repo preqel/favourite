@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://www.cs.com.cn/xwzx/ms/201605/t20160509_4964398.html
+[DOC#308]
+BASEURL=http://www.cs.com.cn/sylm/ztbd/index_2043.html
+ORIGURL=/sylm/ztbd/index_2043.html
+[DOC_FTAPI_iframe_1011191_0]
+BASEURL=http://g.fastapi.net/qa?slotid=1011191&index=0&adid=326369&pvid=1011191.102.27133.717800.1.1462863946.ce95&rn=D:zW2wO9PI13Jvhb-Tmb8CZAO17Oi5jqcJbWpJfn_Y6IgPH4ePGuEqnsIlr_XTNUblcyJagwBYqDdOplkB.4.9919b99c&r=im6
+ORIGURL=http://g.fastapi.net/qa?slotid=1011191&index=0&adid=326369&pvid=1011191.102.27133.717800.1.1462863946.ce95&rn=D:zW2wO9PI13Jvhb-Tmb8CZAO17Oi5jqcJbWpJfn_Y6IgPH4ePGuEqnsIlr_XTNUblcyJagwBYqDdOplkB.4.9919b99c&r=im6
+[DOC_FTAPI_iframe_1011191_0#7#10]
+BASEURL=http://www.cntv.cn/huzhong/pla.html?uid=u2598062&width=300&height=250&at=3&rsi0=300&rsi1=250&pat=17&tn=baiduCustNativeAD&rss1=%23FFFFFF&conBW=1&adp=1&ptt=0&titFF=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&titFS=14&rss2=%23000000&titSU=0
+ORIGURL=pla.html?uid=u2598062&width=300&height=250&at=3&rsi0=300&rsi1=250&pat=17&tn=baiduCustNativeAD&rss1=%23FFFFFF&conBW=1&adp=1&ptt=0&titFF=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&titFS=14&rss2=%23000000&titSU=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cs.com.cn/xwzx/ms/201605/t20160509_4964398.html
+IDList=

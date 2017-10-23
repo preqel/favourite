@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=535088268
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=535088268
+IDList=
+IconFile=https://res.wx.qq.com/mpres/htmledition/images/favicon218877.ico
+IconIndex=1

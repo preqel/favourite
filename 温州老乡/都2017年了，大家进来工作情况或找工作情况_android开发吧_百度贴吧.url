@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://tieba.baidu.com/p/4924757340
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://tieba.baidu.com/p/4924757340
+IDList=
+IconFile=http://tb1.bdstatic.com/tb/favicon.ico
+IconIndex=1

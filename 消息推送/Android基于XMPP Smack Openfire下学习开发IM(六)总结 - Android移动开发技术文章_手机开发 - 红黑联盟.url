@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.2cto.com/kf/201310/248765.html
+[DOC#160]
+BASEURL=http://www.2cto.com/index.php?m=member&c=index&a=mini&forward=http%3A%2F%2Fwww.2cto.com%2Fkf%2F201310%2F248765.html&siteid=1
+ORIGURL=http://www.2cto.com/index.php?m=member&c=index&a=mini&forward=http%3A%2F%2Fwww.2cto.com%2Fkf%2F201310%2F248765.html&siteid=1
+[DOC_iframe2471250_0]
+BASEURL=http://www.2cto.com/kf/201310/248765.html
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.2cto.com/kf/201310/248765.html
+IDList=
+IconFile=http://www.2cto.com/favicon.ico
+IconIndex=1

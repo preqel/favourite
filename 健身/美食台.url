@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://baishi.pgc.baidu.com/watch/05270452714361226002.html
+[DOC_adframe_wrap_gtmq07]
+BASEURL=http://baishi.pgc.baidu.com/watch/05270452714361226002.html
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://baishi.pgc.baidu.com/watch/05270452714361226002.html
+IDList=
+IconFile=http://baishi.pgc.baidu.com/favicon.ico
+IconIndex=1

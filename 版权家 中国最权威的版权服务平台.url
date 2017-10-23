@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.banquanjia.com.cn/platform/channel360
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.banquanjia.com.cn/platform/channel360
+IDList=
+IconFile=http://www.banquanjia.com.cn/assets/images/icon/favicon.$5106.png
+IconIndex=1

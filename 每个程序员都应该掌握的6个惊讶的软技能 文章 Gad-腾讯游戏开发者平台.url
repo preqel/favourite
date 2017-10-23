@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://gad.qq.com/article/detail/7162487
+[DOC#570]
+BASEURL=http://gad.qq.com/article/detail/7162487
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://gad.qq.com/article/detail/7162487
+IDList=
+IconFile=http://gad.qq.com/forum/img/favicon.png
+IconIndex=1

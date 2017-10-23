@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.56.com/u28/v_OTAzODExMjE.html
+[DOC_add_favorite_cmt]
+BASEURL=http://www.56.com/domain.html
+ORIGURL=http://www.56.com/domain.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.56.com/u28/v_OTAzODExMjE.html
+IDList=
+IconFile=http://www.56.com/favicon.ico
+IconIndex=1

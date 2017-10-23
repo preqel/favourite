@@ -1,0 +1,18 @@
+[DEFAULT]
+BASEURL=http://video.sina.com.cn/p/sports/k/v/doc/2017-02-13/092365693847.html
+[DOC_sinaadtk_sandbox_id_0]
+BASEURL=http://video.sina.com.cn/p/sports/k/v/doc/2017-02-13/092365693847.html
+ORIGURL=javascript:'<html><body style=background:transparent;></body></html>'
+[DOC_sinaadtk_sandbox_id_1]
+BASEURL=http://video.sina.com.cn/p/sports/k/v/doc/2017-02-13/092365693847.html
+ORIGURL=javascript:'<html><body style=background:transparent;></body></html>'
+[DOC#1270]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=http://1407.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|video|VideoPIP&db=sina&border=0&local=yes
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://video.sina.com.cn/p/sports/k/v/doc/2017-02-13/092365693847.html
+IDList=
+IconFile=http://video.sina.com.cn/favicon.ico
+IconIndex=1
